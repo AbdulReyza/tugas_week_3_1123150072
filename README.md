@@ -1,2 +1,4 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+## CARA MENJALANKAN TUGAS
+
+ketik command ini di terminal :
+dart run bin/mahasiswa.dart
